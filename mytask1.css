@@ -5,69 +5,69 @@
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    margin: 10px 0px 0px 10px;
+    margin: 50px 0px 0px 10px;
    
 }
 .b2{ 
     border-style: solid;
     border-color: black;
-    padding: 100px;
+    padding: 50px;
     height: 100px; 
     width: 100px;
     border-radius: 50%;
-    margin: 20px 0px 0px 120px;
+    margin: -30px 120px 0px 20px;
 }  
 .b3{ 
     border-style: solid;
     border-color: black;
-    padding: 150px;
+    padding: 50px;
     height: 100px; 
     width: 100px;
     border-radius: 50%;
-    margin: 30px 0px 0px 130px;
+    margin: -20px 170px 0px 30px;
 }  
 .b4{ 
     border-style: solid;
     border-color: black;
-    padding: 200px;
+    padding: 50px;
     height: 100px; 
     width: 100px;
     border-radius: 50%;
-    margin: 40px 0px 0px 140px;
+    margin: 10px 230px 0px 40px;
 }  
 .b5{ 
     border-style: solid;
     border-color: black;
-    padding: 250px;
+    padding: 50px;
     height: 100px; 
     width: 100px;
     border-radius: 50%;
-    margin: 50px 0px 0px 150px;
+    margin: 30px 280px 0px 40px;
 } 
 .b6{ 
     border-style: solid;
     border-color: black;
-    padding: 300px;
+    padding: 50px;
     height: 100px; 
     width: 100px;
     border-radius: 50%;
-    margin: 60px 0px 0px 160px;
+    margin: 50px 330px 0px 30px;
 } 
 .b7{
     border-style: solid;
     border-color: black;
-    padding: 350px;
+    padding: 50px;
     height: 100px; 
     width: 100px;
     border-radius: 50%;
-    margin: 70px 0px 0px 170px;
+    margin: 650px 380px 0px 20px;
 }   
 .b8{ 
     border-style: solid;
     border-color: black;
-    padding: 400px;
+    padding: 50px;
     height: 100px; 
     width: 100px;
     border-radius: 50%;
-    margin: 80px 0px 0px 180px;
+    margin: 80px 420px 0px 10px;
 }   
