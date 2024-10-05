@@ -1,6 +1,6 @@
 *{
     background-color: black;
-    color: aliceblue;
+    color: rgb(198, 204, 209);
 }
 
 
@@ -11,7 +11,7 @@ padding: 20px 90px;
 }
 .new{
 
-    background-color: aqua;
+    background-color: rgb(8, 234, 234);
     width: 500px;
     height: 700px;
 }
